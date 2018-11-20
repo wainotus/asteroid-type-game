@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "877aa9a2-5a0a-406b-ad4a-a40cf1741409",
+            "Value": {
+                "id": "2d26b80b-c3b3-4ba6-ba2a-ec342847a314",
+                "resourcePath": "sprites\\spr_asteroid\\spr_asteroid.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aea0e4ce-e6fb-40ec-a5e6-acb906f22aec",
             "Value": {
                 "id": "8185153d-1911-4560-a45a-1012442b27ee",
@@ -188,6 +196,14 @@
                 "id": "0973f4fc-e55b-472d-9149-44aadc605de8",
                 "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "f3f79df4-e9dc-4a4f-a041-2fefcc0df2c5",
+            "Value": {
+                "id": "21fdfbba-662f-432c-9718-19a59c9149a6",
+                "resourcePath": "objects\\obj_asteroid\\obj_asteroid.yy",
+                "resourceType": "GMObject"
             }
         },
         {
