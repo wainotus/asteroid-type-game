@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1bcbdb2c-afe9-4022-9b99-46060acd66e3",
+            "Value": {
+                "id": "9ba71fcc-6b7a-4849-aea2-5a83bafa9020",
+                "resourcePath": "sprites\\spr_rocket\\spr_rocket.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "34e0cfd4-948c-4d28-ab2a-586050e5b476",
             "Value": {
                 "id": "9f3b3895-ea1b-49e8-b8dd-3fdda061746a",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "455f2da5-6c6a-498b-b797-52f144095754",
+            "Value": {
+                "id": "af17fd18-b023-4cc0-849a-35bc727d4bd8",
+                "resourcePath": "sprites\\spr_background\\spr_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4e2ef020-f1c8-4e9f-8418-f9224d53b063",
             "Value": {
                 "id": "1ef66537-aef5-42e8-a204-6d6bb5bd91f5",
@@ -95,6 +111,14 @@
             }
         },
         {
+            "Key": "714789d7-cdd5-4068-baa0-821f1181ce78",
+            "Value": {
+                "id": "e30e1f99-207a-4cff-83cc-c48a0d72704e",
+                "resourcePath": "sprites\\spr_ufo\\spr_ufo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73aa4747-f0a7-4a29-b930-45681f65fd64",
             "Value": {
                 "id": "155af31f-76ba-4a27-aa98-d7a6c9cf3dbb",
@@ -108,6 +132,14 @@
                 "id": "0e3fe9d6-d6ac-46af-ba8f-cb5b38e2dea0",
                 "resourcePath": "views\\76ddbe2e-043c-4ead-ad48-4ae75ded7556.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "78791291-49fb-40b2-9d26-091a74d576a6",
+            "Value": {
+                "id": "bcc16b8a-c6a7-45af-b6d6-2660544ddcb2",
+                "resourcePath": "rooms\\rm_title\\rm_title.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -175,6 +207,22 @@
             }
         },
         {
+            "Key": "c84c3a79-bc41-4800-9a03-9551c0807e69",
+            "Value": {
+                "id": "cc5922ae-1edd-46f8-b0ea-67d31812d013",
+                "resourcePath": "rooms\\rm_end\\rm_end.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "c9254ade-ecf8-4db3-8c56-9ee22eacd230",
+            "Value": {
+                "id": "95ba16c1-4a62-4996-a109-2edad3aa5782",
+                "resourcePath": "objects\\obj_ufo\\obj_ufo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "9dc2c0fa-f9ce-4597-870b-85883cf7d658",
@@ -195,6 +243,14 @@
             "Value": {
                 "id": "2eedac40-0790-4791-9012-1da55039290c",
                 "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d0d58c49-98e3-4f51-9b91-d4aa6b25b32f",
+            "Value": {
+                "id": "107e438b-c786-4c00-a760-263c45f51664",
+                "resourcePath": "objects\\obj_rocket\\obj_rocket.yy",
                 "resourceType": "GMObject"
             }
         },
