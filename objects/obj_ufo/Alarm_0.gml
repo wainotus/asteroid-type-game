@@ -1,11 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 33D611BC
-/// @DnDArgument : "code" "bullet = instance_create_layer(x + 20, y + 20, "instances", obj_bullet);$(13_10)$(13_10)bullet.direction = point_direction(x, y, obj_player.x, obj_player.y);$(13_10)bullet.speed = 5;"
-bullet = instance_create_layer(x + 20, y + 20, "instances", obj_bullet);
-
-bullet.direction = point_direction(x, y, obj_player.x, obj_player.y);
-bullet.speed = 5;
+/// @DnDArgument : "code" "// spawn a rocket at the ship's location$(13_10)rocket = instance_create_layer(x + 20, y + 20, "instances", obj_rocket);$(13_10)rocket.direction = point_direction(x, y, obj_player.x, obj_player.y);$(13_10)rocket.image_angle = rocket.direction;$(13_10)rocket.speed = 5;"
+// spawn a rocket at the ship's location
+rocket = instance_create_layer(x + 20, y + 20, "instances", obj_rocket);
+rocket.direction = point_direction(x, y, obj_player.x, obj_player.y);
+rocket.image_angle = rocket.direction;
+rocket.speed = 5;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
