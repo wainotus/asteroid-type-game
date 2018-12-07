@@ -11,5 +11,15 @@ rocket.speed = 5;
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1
 /// @DnDHash : 1FC3F39A
+/// @DnDInput : 2
 /// @DnDArgument : "steps" "irandom_range(30,210)"
+/// @DnDArgument : "alarm_1" "1"
 alarm_set(0, irandom_range(30,210));
+alarm_set(1, 30);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 0F4080D7
+/// @DnDArgument : "soundid" "sound_shot"
+/// @DnDSaveInfo : "soundid" "95388994-f69c-47a6-8306-a62158cf7322"
+audio_play_sound(sound_shot, 0, 0);
