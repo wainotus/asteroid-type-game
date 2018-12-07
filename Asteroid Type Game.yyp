@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2f59b6dc-a2d8-46db-b711-b53c8b250a95",
+            "Value": {
+                "id": "cd6313fc-b205-4ae1-8e68-31b341403b1c",
+                "resourcePath": "fonts\\Title\\Title.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "34e0cfd4-948c-4d28-ab2a-586050e5b476",
             "Value": {
                 "id": "9f3b3895-ea1b-49e8-b8dd-3fdda061746a",
@@ -196,6 +204,14 @@
                 "id": "afe5919b-d9be-4b24-821c-42784c60fc69",
                 "resourcePath": "sounds\\sound_shot\\sound_shot.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "9f191312-80fb-4668-b208-3f677b7cdd2c",
+            "Value": {
+                "id": "7f81f5b9-9e1b-4c7f-8d28-3c339697674f",
+                "resourcePath": "sprites\\spr_text\\spr_text.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
